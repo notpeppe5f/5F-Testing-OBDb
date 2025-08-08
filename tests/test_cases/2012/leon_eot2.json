@@ -1,0 +1,14 @@
+[
+  {
+    "A": 84,
+    "expected": 32.22,
+    "unit": "°C",
+    "definition": "LEON_EOT2"
+  },
+  {
+    "A": 152,
+    "expected": 91.70,
+    "unit": "°C",
+    "definition": "LEON_EOT2"
+  }
+]
