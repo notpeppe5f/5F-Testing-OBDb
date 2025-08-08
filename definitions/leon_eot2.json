@@ -1,8 +1,0 @@
-{
-  "id": "LEON_EOT2",
-  "description": "Engine oil temperature",
-  "formula": "(A * 0.879) - 41.74",
-  "unit": "°C",
-  "min": -40,
-  "max": 215
-}
