@@ -1,0 +1,14 @@
+{
+  "extends": "default",
+  "signals": {
+    "LEON_EOL": {
+      "mode": "01",
+      "pid": "5C",
+      "definition": "LEON_EOT2",
+      "unit": "°C",
+      "min": -40,
+      "max": 215,
+      "description": "Engine oil temperature"
+    }
+  }
+}
